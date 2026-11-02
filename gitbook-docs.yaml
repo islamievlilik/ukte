@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Ukte İslami Evlilik Rehberi
+  structure:
+    - type: space
+      key: ukte-member-help-tr
+      title: Evlilik ve Üye Rehberi
+      path: rehber
+      default: true
+      content:
+        directory: ./gitbook
+        language: tr
