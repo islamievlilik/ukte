@@ -4,13 +4,21 @@ description: Kayıt, e-posta doğrulama, Google veya Apple ile giriş ve parola 
 
 # Üyelik ve giriş
 
+![Ukte giriş ekranında Google, Apple ve e-posta ile giriş seçenekleri.](../assets/ekran-goruntuleri/giris.png)
+
+*6 Kasım 2026’da yerel Ukte sitesinden alınmış gerçek giriş ekranı. Sağlayıcı düğmeleri sitede etkin olduklarında görünür.*
+
 ## Kayıt olma
 
-1. Ukte’nin giriş sayfasında **Kayıt ol** seçeneğini açın.
-2. Ekranda istenen ad, e-posta ve parola bilgilerini doldurun.
+1. Ukte’nin kayıt sayfasında **Hesap oluştur** ekranını açın.
+2. **E-posta ile kayıt ol** seçeneğiyle formda istenen bilgileri doldurun; sunuluyorsa Google veya Apple yöntemini seçebilirsiniz.
 3. Formdaki parola koşullarını karşılayın ve kaydı gönderin.
 4. İsteniyorsa e-posta doğrulamasını tamamlayın.
 5. Profilinizi doldurarak devam edin.
+
+![Ukte Hesap oluştur ekranında Google, Apple ve e-posta ile kayıt seçenekleri.](../assets/ekran-goruntuleri/kayit.png)
+
+*Gerçek kayıt ekranı; yerel Ukte ortamı, 6 Kasım 2026.*
 
 Ziyaretçi olarak bir gönderi yazmaya veya başka bir üye eylemine başlamışsanız uygulama, girişten sonra sizi ilgili akışa döndürebilir. İşlemin tamamlandığını görmeden aynı içeriği tekrar göndermeyin.
 
@@ -26,9 +34,17 @@ Bu düğmeler görünüyorsa kullanmak istediğiniz sağlayıcıyı seçin ve sa
 
 Her seferinde hesabınızı açtığınız yöntemle giriş yapmaya dikkat edin. Giriş sağlayıcınızın parolasını Ukte’deki mesaj veya destek alanlarına yazmayın.
 
-## Parolamı unuttum
+## E-posta ile giriş
 
-Giriş ekranında **Parolamı unuttum** seçeneğini açın ve hesabınızın e-posta adresini girin. Gelen sıfırlama bağlantısında yeni parolanızı belirleyin. Eski veya süresi dolmuş bağlantı yerine yeni bir sıfırlama isteği oluşturun.
+**Giriş yap → E-posta ile giriş yap** seçeneğini açın. E-posta ve şifre alanlarını doldurup **Giriş yap** düğmesine basın. Kayıt yönteminiz Google veya Apple ise ilgili sağlayıcının düğmesini kullanın.
+
+## Şifremi unuttum
+
+E-posta giriş formunda **Şifremi unuttum** seçeneğini açın ve hesabınızın e-posta adresini girin. Gelen sıfırlama bağlantısında yeni parolanızı belirleyin. Eski veya süresi dolmuş bağlantı yerine yeni bir sıfırlama isteği oluşturun.
+
+## Ücretsiz kullanım ve paketler
+
+Kayıt olmak ile Gold/VIP satın almak ayrı işlemlerdir. Ücretsiz erkek hesabında günlük 30 mesaj hakkı, kadın hesabında ücretsiz sınırsız mesajlaşma bulunur. Paket hakları ve gerçek seçim ekranları için [üyelik karşılaştırmasına](../uyelik/README.md) bakın.
 
 ## Oturumdan çıkma
 

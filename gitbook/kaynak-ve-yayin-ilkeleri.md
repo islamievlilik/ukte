@@ -12,6 +12,14 @@ Bu rehberler, mevcut ürün özellikleri ve aşağıda belirtilen kamuya açık 
 
 Konuşma örnekleri, karşılaştırma tabloları ve çalışma listeleri bu rehber için oluşturulmuş pratik önerilerdir. Gerçek üye hikâyesi, bilimsel araştırma sonucu veya dinî hüküm gibi sunulmazlar. Platformun işleyişiyle ilgili açıklamalar mevcut uygulama akışını anlatır; değişikliklerde ilgili sayfa güncellenmelidir.
 
+## Üyelik bilgileri ve gerçek ekran görüntüleri
+
+Gold/VIP hakları, paket süreleri ve satın alma açıklamaları **6 Kasım 2026’da** Ukte’nin Tivelio kaynak kodundaki üyelik kuralları, arayüz metinleri ve çalışan yerel Ukte ekranlarıyla karşılaştırılarak güncellendi. Ücretsiz erkek üyeler için günlük 30 mesaj hakkı esas alındı. Fiyat tablosunda doğrulama tarihi belirtilir; satın alma sırasında hesabınızda sunulan güncel toplam ve koşullar geçerlidir.
+
+Görseller, çalışan uygulamanın tarayıcıdan alınmış gerçek ekran görüntüleridir; yapay zekâyla üretilmiş arayüz çizimleri değildir. Çekimler yerel Ukte ortamında ve mevcut örnek hesaplarla yapıldı. Profil formunda görünen kişi bilgileri örnek katalog içeriğidir. Paket ekranlarındaki test modu bildirimi de yerel çekim ortamını gösterir; tamamlanmış gerçek bir ödeme olarak sunulmaz.
+
+Görsellerin başlık ve açıklamaları ilgili sayfalardadır. Gizli giriş bilgileri, kart bilgileri ve özel sohbet içerikleri görsellere dahil edilmez. Arayüz veya paket kuralları değiştiğinde ilgili metinler ve ekran görüntüleri birlikte yenilenmelidir.
+
 ## Dinî kaynaklar nasıl kullanılır?
 
 Dinî çerçeve anlatılırken Diyanet Kur’an Platformu ve Din İşleri Yüksek Kurulu gibi adı açık resmî kaynaklara doğrudan bağlantı verilir. Kaynağın ele aldığı konu ile rehberin kendi iletişim önerileri ayrılır. Bir kaynağın bağlantısı, kurumun Ukte’yi onayladığı veya onunla ortak olduğu anlamına gelmez.

@@ -12,7 +12,7 @@ Ukte için başka hizmetlerde kullanmadığınız bir parola seçin. Parolanız�
 
 Yerel parolanız varsa **Ayarlar → Güvenlik** bölümündeki parola değiştirme seçeneğini açın. Mevcut ve yeni parolanızı girin, yeni parolayı tekrar yazarak onaylayın. İşlem sonrası yeniden giriş yapmanız gerekebilir.
 
-Mevcut parolanızı bilmiyorsanız giriş ekranındaki **Parolamı unuttum** akışını kullanın. Google veya Apple ile açılmış hesapta kullanılabilir giriş yöntemlerini ayarlardan kontrol edin.
+Mevcut parolanızı bilmiyorsanız e-posta giriş formundaki **Şifremi unuttum** akışını kullanın. Google veya Apple ile açılmış hesapta kullanılabilir giriş yöntemlerini ayarlardan kontrol edin.
 
 ## Bağlı giriş yöntemleri
 

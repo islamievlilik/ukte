@@ -4,7 +4,11 @@ description: Temel bilgiler, evlilik niyeti, değerler ve aday tercihlerini düz
 
 # Profilini hazırla
 
-**Ayarlar → Profili düzenle** bölümünü açın. İlk kayıtta profil tamamlama ekranına yönlendirilebilirsiniz.
+**Ayarlar → Hesabım → Profilimi düzenle** yolunu izleyin. İlk kayıtta profil tamamlama ekranına yönlendirilebilirsiniz. Formdaki **Temel bilgiler**, **Seni tanıyalım** ve **Aday tercihlerim** sekmelerini kullanın.
+
+![Ukte profil düzenleme formunda temel bilgiler, evliliğe bakışım, hakkımda ve fotoğraf görünürlüğü alanları.](../assets/ekran-goruntuleri/profil-duzenleme.png)
+
+*Yerel örnek hesabın gerçek profil formu, 6 Kasım 2026. Görseldeki profil bilgileri örnek içeriktir.*
 
 ## Temel bilgiler
 

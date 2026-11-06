@@ -92,12 +92,23 @@ Konu rehberleri evlilik yolculuğundaki soruları, yardım sayfaları ise uygula
 | Adayları incelemek | [Aday keşfi](gitbook/tanisma/aday-kesfi.md) |
 | Tanışma isteği göndermek veya yanıtlamak | [Tanışma istekleri](gitbook/tanisma/tanisma-istekleri.md) |
 | Mesajları ve sohbeti yönetmek | [Sohbet](gitbook/tanisma/sohbet.md) |
+| Ücretsiz kullanım, Gold ve VIP’yi karşılaştırmak | [Üyelik ve ayrıcalıklar](gitbook/uyelik/README.md) |
+| Paket fiyatlarını ve sürelerini incelemek | [Satın alma ve üyelik süresi](gitbook/uyelik/satin-alma-ve-sure.md) |
+| Sesli veya görüntülü görüşmek | [Görüşme rehberi](gitbook/tanisma/sesli-ve-goruntulu-gorusme.md) |
 | Nâme ve Kelâm paylaşmak | [Gönderi ve yanıt rehberi](gitbook/paylasim/name-ve-kelam.md) |
 | İzinleri gözden geçirmek | [Mahremiyetini yönet](gitbook/guvenlik/mahremiyet.md) |
 | İstenmeyen iletişimi bildirmek | [Engelleme ve şikâyet](gitbook/guvenlik/engel-ve-sikayet.md) |
 | Yardım almak | [Sorun giderme](gitbook/yardim/sorun-giderme.md) ve [destek isteme](gitbook/yardim/destek.md) |
 
 Ukte arayüzü Türkçe, İngilizce ve Arapça kullanılabilir. Bu depodaki rehberler Türkçedir. Dil ve tema seçenekleri için [görünüm ayarlarına](gitbook/ayarlar/dil-ve-gorunum.md) bakın.
+
+## Gold ve VIP üyelik
+
+Ücretsiz erkek üyeler için günlük hak **30 mesajdır**; kadın hesaplar ücretsiz sınırsız mesajlaşabilir. [Gold](gitbook/uyelik/gold.md) sınırsız mesajlaşma ve altın profil çemberi sunar. [VIP](gitbook/uyelik/vip.md), sınırsız mesajlaşma ve mor çembere ek olarak arama özelliği etkin olduğunda sesli/görüntülü arama başlatma hakkı verir. Gelen aramayı yanıtlamak için ücretli paket gerekmez.
+
+Paketler 1, 3 veya 6 aylık seçilir; güncel paketlerde ödeme tek seferliktir ve otomatik yenileme yoktur. [Fiyat ve satın alma rehberinde](gitbook/uyelik/satin-alma-ve-sure.md) ayrıntıları bulabilirsiniz. Paketler tanışma kabulü veya özel fotoğraf erişimi sağlamaz.
+
+Kullanım sayfaları; giriş, kayıt, profil, Gold/VIP ve ayarlar için çalışan yerel Ukte sitesinden alınmış gerçek ekran görüntüleri içerir. Görsellerin çekim tarihi 6 Kasım 2026’dır; yerel örnek hesaplar ve test ödeme modu açıkça belirtilmiştir.
 
 ## Sık sorulan sorular
 
@@ -115,7 +126,7 @@ Tanışma kabulü, birbirinizi tanımak için iletişime başlangıçtır. Evlil
 
 ### Fotoğrafımı yalnız tanıştığım kişilere açabilir miyim?
 
-Profilinizde sunulan **Tanışmalar** görünürlüğünü inceleyebilirsiniz. Bu erişim için kabul edilmiş üye tanışması ve diğer izin koşulları gerekir. Ayrıntılar [fotoğraf görünürlüğü rehberindedir](gitbook/profil/fotograflar-ve-gorunurluk.md).
+Profilinizde sunulan **Kabul ettiğim kişiler görsün** seçeneğini kullanabilirsiniz. Bu erişim için kabul edilmiş üye tanışması ve diğer izin koşulları gerekir. Ayrıntılar [fotoğraf görünürlüğü rehberindedir](gitbook/profil/fotograflar-ve-gorunurluk.md).
 
 ### Evlilik öncesinde hangi konuları konuşmalıyız?
 

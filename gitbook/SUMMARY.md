@@ -31,6 +31,13 @@
 * [İlk adımlar](baslangic/ilk-adimlar.md)
 * [Üyelik ve giriş](baslangic/uyelik-ve-giris.md)
 
+## Üyelik ve ayrıcalıklar
+
+* [Ücretsiz, Gold ve VIP üyelik](uyelik/README.md)
+  * [Gold üyelik](uyelik/gold.md)
+  * [VIP üyelik](uyelik/vip.md)
+  * [Satın alma ve üyelik süresi](uyelik/satin-alma-ve-sure.md)
+
 ## Profilim
 
 * [Profilini hazırla](profil/profilini-hazirla.md)
@@ -41,6 +48,7 @@
 * [Aday keşfi](tanisma/aday-kesfi.md)
 * [Tanışma istekleri](tanisma/tanisma-istekleri.md)
 * [Sohbet](tanisma/sohbet.md)
+* [Sesli ve görüntülü görüşme](tanisma/sesli-ve-goruntulu-gorusme.md)
 * [İletişim adabı](tanisma/iletisim-adabi.md)
 
 ## Paylaşım

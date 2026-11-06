@@ -4,19 +4,20 @@ description: Profil ve kapak fotoğrafı yükleme, görünürlük seçenekleri v
 
 # Fotoğraflar ve görünürlük
 
+Profil fotoğrafı ayarlarına **Ayarlar → Hesabım → Profilimi düzenle** yolundan ulaşabilirsiniz. [Profil rehberindeki gerçek ekran görüntüsü](profilini-hazirla.md) fotoğraf görünürlüğü seçeneklerini de gösterir.
+
 Profil düzenleme ekranından profil ve kapak fotoğrafınızı ekleyebilir veya değiştirebilirsiniz. Fotoğrafı seçin, sunulan kırpma alanında düzenleyin ve işlemi tamamlayın. Yükleme bitene kadar bekleyin.
 
 ## Fotoğrafımı kimler görebilir?
 
-Profilinizde sunulan görünürlük seçimini kontrol edin:
+Profil formundaki **Profil fotoğraflarım** bölümünü kontrol edin. Güncel ekranda seçenekler şu adlarla gösterilir:
 
 | Seçenek | Anlamı |
 | --- | --- |
-| Herkese açık | Sitenin izin verdiği ziyaretçi ve üye görünümünde erişilebilir. |
-| Üyeler | Giriş yapmış ve ilgili erişim koşullarını karşılayan Ukte üyelerine açılır. |
-| Tanışmalar | Kabul edilmiş üye tanışmalarınıza, diğer erişim koşulları da sağlanıyorsa açılır. |
+| Üyeler görebilsin | Giriş yapmış ve ilgili erişim koşullarını karşılayan Ukte üyelerine açılır. |
+| Kabul ettiğim kişiler görsün | Kabul edilmiş üye tanışmalarınıza, diğer erişim koşulları da sağlanıyorsa açılır. |
 
-Takip etmek, bir gönderiyi beğenmek veya tanışma isteği göndermek tek başına **Tanışmalar** erişimi vermez. İsteğin kabul edilmiş olması gerekir. Site yönetimiyle yapılan destek sohbeti de bu erişimi oluşturmaz.
+Takip etmek, bir gönderiyi beğenmek, Gold/VIP almak veya tanışma isteği göndermek tek başına **Kabul ettiğim kişiler görsün** seçeneğindeki erişimi vermez. İsteğin kabul edilmiş olması gerekir. Site yönetimiyle yapılan destek sohbeti de bu erişimi oluşturmaz.
 
 ## Görünürlüğü değiştirirsem ne olur?
 

@@ -1,5 +1,5 @@
 ---
-description: Üyelik, tanışma, fotoğraf izinleri ve paylaşımlar hakkında kısa yanıtlar.
+description: Ücretsiz kullanım, Gold/VIP, günlük mesaj hakkı, görüşmeler, tanışma ve fotoğraf izinleri hakkında kısa yanıtlar.
 ---
 
 # Sık sorulan sorular
@@ -30,7 +30,43 @@ Hayır. Site yönetimiyle sohbet, adayla kurulmuş üye tanışması değildir; 
 
 ## Bir adayla eşleşmem veya evlenmem garanti mi?
 
-Profil, keşif ve tanışma araçları iletişimi kolaylaştırır. Bir üyenin yanıt vermesi, karşılıklı uygunluk veya evlilik sonucu garanti edilmez.
+Profil, keşif ve tanışma araçları iletişimi kolaylaştırır. Gold veya VIP dahil hiçbir paket, bir üyenin yanıt vermesini, karşılıklı uygunluğu veya evlilik sonucunu garanti etmez.
+
+## Ukte ücretsiz kullanılabilir mi?
+
+Evet. Ücretsiz erkek hesabında günlük toplam **30 mesaj** hakkı vardır; kadın hesaplarda mesajlaşma ücretsiz ve sınırsızdır. Profil, keşif, tanışma, engelleme ve şikâyet araçları üyelik paketinden bağımsız mevcut erişim koşullarıyla kullanılır. [Paket karşılaştırmasına bakın](../uyelik/README.md).
+
+## Kalan mesaj hakkındaki 30/30 ve 0/30 ne demek?
+
+Sayaç kullanılanı değil, **kalan hakkı** gösterir. **30/30** bugün bütün mesaj hakkınızın durduğunu, **0/30** günlük hakkın bittiğini belirtir. Haklar Türkiye saatiyle gece 00.00’da yenilenir. Sayacı **Ayarlar → Ayrıcalıklar** bölümünde bulabilirsiniz.
+
+## Gold ile VIP arasındaki fark ne?
+
+İkisi de sınırsız mesajlaşma sunar. [Gold](../uyelik/gold.md) altın profil çemberi, [VIP](../uyelik/vip.md) mor profil çemberi ve arama özelliği etkinse sesli/görüntülü arama başlatma hakkı verir.
+
+## Kadın hesabımda Gold neden görünmüyor?
+
+Kadın hesaplarda mesajlaşma zaten ücretsiz ve sınırsızdır. Bu hesaplara otomatik Gold atanmaz ve Gold satın alma seçeneği gösterilmez. Arama başlatma hakkı için VIP incelenebilir.
+
+## Gelen aramayı yanıtlamak için VIP gerekli mi?
+
+Hayır. Normal üye kullanımında aramayı **başlatan** kişinin VIP olması gerekir. Uygun bir gelen çağrıyı ücretsiz yanıtlayabilirsiniz; sohbet erişimi ve cihaz izinleri gerekir. [Görüşme rehberine bakın](../tanisma/sesli-ve-goruntulu-gorusme.md).
+
+## Altın veya mor çember kimlik doğrulaması mı?
+
+Hayır. Çember, etkin Gold veya VIP üyeliğini gösterir. Kimlik, medeni durum veya profil bilgilerinin doğrulandığını ifade etmez. Sıralama taçları da üyelik çemberinden ayrı göstergelerdir.
+
+## Paketler her ay otomatik yenilenir mi?
+
+Güncel 1, 3 ve 6 aylık paketler tek seferlik ödemedir; otomatik yenilenmez. Çok aylı pakette görünen aylık karşılık ayrı bir aylık tahsilat değildir. [Fiyat ve süre açıklamasını okuyun](../uyelik/satin-alma-ve-sure.md).
+
+## Üyelik süresi bitince sohbetlerim silinir mi?
+
+Hayır. Sohbet geçmişi ve kabul edilmiş tanışmalar korunur; ücretli paket hakları sona erer. Ücretsiz erkek hesabında günlük mesaj sınırı yeniden uygulanır. Kadın hesapların ücretsiz sınırsız mesajlaşması devam eder.
+
+## Aktif Gold paketim varken VIP satın alabilir miyim?
+
+Geçerli ücretli üyelik sırasında yeni paket seçimi gösterilmez. **Mevcut Planım** bölümünde paketinizi ve bitişini kontrol edin; değişiklik talebi için [destek isteyin](destek.md).
 
 ## Profilimde aile katılımını seçince aileme mesaj gider mi?
 

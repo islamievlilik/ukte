@@ -16,6 +16,7 @@ Ukte’de mahremiyetiniz tek bir ayardan oluşmaz. Profil fotoğrafı, gönderi 
 | Üye tanışmasını kabul etmek | Tanışmalara özel içeriğe, diğer izin koşulları da sağlanıyorsa erişim sağlayabilir. |
 | Site yönetimiyle konuşmak | Üye tanışması oluşturmaz. |
 | Sohbeti arşivlemek | Tanışmayı sonlandırmaz. |
+| Gold veya VIP almak | Tanışma kabulü, özel fotoğraf erişimi veya engeli aşma hakkı vermez. |
 
 ## Fotoğraf ve gönderi görünürlüğü
 
@@ -25,7 +26,11 @@ Bir izni kaldırmanız yeni erişim bağlantısı verilmesini durdurur. Önceden
 
 ## Okundu bilgisi ve bildirimler
 
-Okundu bilgisini **Ayarlar → Mahremiyet** bölümünden yönetin. Yeni mesaj cihaz bildirimleri özel mesajın içeriğini veya gönderenin adını göstermez. Ortak cihazlarda oturumu açık bırakmayın.
+Okundu bilgisini **Ayarlar → Gizlilik** bölümündeki **Okundu bilgisini paylaş** anahtarından yönetin. Kapalıyken karşılıklı okundu bilgisi gösterilmez. Aynı ekrandan **Engellenenler** listesine ulaşabilirsiniz. Yeni mesaj cihaz bildirimleri özel mesajın içeriğini veya gönderenin adını göstermez. Ortak cihazlarda oturumu açık bırakmayın.
+
+![Ukte Gizlilik ekranında okundu bilgisi anahtarı ve Engellenenler bağlantısı.](../assets/ekran-goruntuleri/gizlilik.png)
+
+*Yerel Ukte sitesinin gerçek Gizlilik ekranı, 6 Kasım 2026.*
 
 ## Paylaşacağınız bilgiyi seçin
 

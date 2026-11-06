@@ -10,7 +10,7 @@ Rahatsız olduğunuz bir görüşmeyi sürdürmek zorunda değilsiniz. İletişi
 
 Üyenin profilinde veya sohbet menüsünde sunulan **Engelle** seçeneğini açın. Ekrandaki açıklamayı okuyup onaylayın. Engel; ilgili iletişim ve içerik erişimlerinde uygulanır.
 
-Engellediklerinizi **Ayarlar → Mahremiyet → Engellenenler** bölümünden yönetin. Engeli kaldırmanın eski bir tanışmayı kendiliğinden yeniden kabul ettiği varsayımıyla hareket etmeyin; güncel durumu profilden kontrol edin.
+Engellediklerinizi **Ayarlar → Gizlilik → Engellenenler** bölümünden yönetin. Engeli kaldırmanın eski bir tanışmayı kendiliğinden yeniden kabul ettiği varsayımıyla hareket etmeyin; güncel durumu profilden kontrol edin.
 
 ## Sohbetten şikâyet gönderme
 

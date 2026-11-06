@@ -6,6 +6,10 @@ description: Uygulama içi ve cihaz bildirimlerini, yeni mesaj uyarılarını y�
 
 Uygulama içindeki **Bildirimler** bölümünden hesabınızla ilgili etkinlikleri görebilirsiniz. **Ayarlar → Bildirimler** alanındaki beğeni, yanıt ve takip tercihlerini ayrı ayrı yönetin.
 
+![Ukte bildirim ayarlarında Beğeniler, Kelâmlar, Yeni takipçiler ve Yeni mesaj bildirimleri seçenekleri.](../assets/ekran-goruntuleri/bildirim-ayarlari.png)
+
+*Gerçek yerel ekran, 6 Kasım 2026. Bu çekimde tarayıcının bildirim izni engellenmiş durumdadır; kendi cihazınızdaki izin durumu farklı olabilir.*
+
 ## Yeni mesajları bu cihazda alma
 
 1. Uygun bir tarayıcıda Ukte’ye giriş yapın.

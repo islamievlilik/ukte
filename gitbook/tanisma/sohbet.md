@@ -1,10 +1,20 @@
 ---
-description: Mesaj gönderme, mesaj işlemleri ve sohbet menüsündeki seçenekler.
+description: Mesaj gönderme, günlük ücretsiz hak, Gold/VIP ayrıcalıkları ve sohbet menüsündeki seçenekler.
 ---
 
 # Sohbet
 
-Kabul edilmiş bir tanışmaya **Sohbetler** bölümünden ulaşın. Metninizi yazın, gerekiyorsa desteklenen ekleri seçin ve gönderin. Ekranda hata varsa mesajı gönderilmiş kabul etmeyin.
+Kabul edilmiş bir tanışmaya **Mesajlar** bölümünden ulaşın. Metninizi yazın, gerekiyorsa desteklenen ekleri seçin ve gönderin. Ekranda hata varsa mesajı gönderilmiş kabul etmeyin.
+
+## Ücretsiz mesaj hakkı ve paketler
+
+Ücretsiz erkek üyeler için normal üye sohbetlerindeki toplam günlük hak **30 mesajdır**. Kadın hesaplarda ve etkin Gold/VIP üyeliklerde günlük mesaj kotası uygulanmaz. Hak Türkiye saatiyle gece 00.00’da yenilenir.
+
+Kalan hakkınızı **Ayarlar → Ayrıcalıklar → Mevcut Planım** alanından kontrol edin. **30 / 30**, bütün hakkınızın durduğunu; **0 / 30**, bugünkü hakkın tükendiğini gösterir. Limit dolduğunda ertesi günü bekleyebilir veya [Gold ve VIP paketlerini](../uyelik/README.md) inceleyebilirsiniz.
+
+## Sesli ve görüntülü görüşme
+
+Sohbet başlığındaki telefon/kamera düğmeleri, özellik etkinse görüşme başlatmak içindir. Normal üye kullanımında aramayı başlatan kişinin VIP olması gerekir; karşı taraf uygun çağrıyı ücretsiz yanıtlayabilir. [Görüşme rehberini okuyun](sesli-ve-goruntulu-gorusme.md).
 
 ## Mesaj seçenekleri
 
@@ -30,7 +40,7 @@ Geçmişi temizlemek veya sohbeti kendi listenizden silmek, karşı tarafın ge�
 
 ## Okundu bilgisi
 
-**Ayarlar → Mahremiyet** bölümünden okundu bilgisi tercihinizi yönetin. Okundu işaretini bir kişinin hemen cevap verme yükümlülüğü olarak yorumlamayın.
+**Ayarlar → Gizlilik** bölümünden okundu bilgisi tercihinizi yönetin. Okundu işaretini bir kişinin hemen cevap verme yükümlülüğü olarak yorumlamayın.
 
 ## Site yönetimiyle konuşma
 

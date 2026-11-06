@@ -32,7 +32,16 @@ Uygulamaya geçmek için [Ukte’yi açın](https://ukte.tr/) veya [üyelik seç
 | Profilimi ve evlilik niyetimi anlatmak istiyorum | [Profilini hazırla](profil/profilini-hazirla.md) |
 | Fotoğrafımı kimlerin görebileceğini seçmek istiyorum | [Fotoğraflar ve görünürlük](profil/fotograflar-ve-gorunurluk.md) |
 | Bir adayla tanışmak istiyorum | [Tanışma istekleri](tanisma/tanisma-istekleri.md) |
+| Ücretsiz kullanım, Gold ve VIP arasındaki farkı öğrenmek istiyorum | [Üyelik ve ayrıcalıklar](uyelik/README.md) |
+| Paket fiyatlarını ve üyelik süresini incelemek istiyorum | [Satın alma ve üyelik süresi](uyelik/satin-alma-ve-sure.md) |
+| Sesli veya görüntülü görüşmek istiyorum | [Görüşme rehberi](tanisma/sesli-ve-goruntulu-gorusme.md) |
 | Bir sorun yaşıyorum | [Sorun giderme](yardim/sorun-giderme.md) |
+
+## Gold ve VIP ayrıcalıkları
+
+Ücretsiz erkek üyeler günde **30 mesaj** gönderebilir; kadın hesaplarda mesajlaşma ücretsiz ve sınırsızdır. **Gold**, sınırsız mesajlaşma ve altın profil çemberi; **VIP**, sınırsız mesajlaşma, mor profil çemberi ve arama özelliği etkin olduğunda sesli/görüntülü arama başlatma sunar.
+
+[Paketleri karşılaştırın](uyelik/README.md), [Gold ekranını](uyelik/gold.md) veya [VIP ekranını](uyelik/vip.md) inceleyin. Paketler tanışma kabulünün ve karşılıklı rızanın yerine geçmez.
 
 ## Ukte’de kullanılan kelimeler
 
@@ -43,6 +52,8 @@ Uygulamaya geçmek için [Ukte’yi açın](https://ukte.tr/) veya [üyelik seç
 Evlilik yazıları, konu hakkında bilgi arayan yetişkinlere; kullanım sayfaları Ukte üyelerine yöneliktir. Ukte’de görünen seçenekleri ve ekrandaki açıklamaları izleyin; bazı özelliklerin kullanılabilirliği hesap durumunuza ve sitenin etkin ayarlarına bağlıdır. Arayüz Türkçe, İngilizce ve Arapça kullanılabilir; bu rehber Türkçe hazırlanmıştır.
 
 Dinî açıklamalar ilgili resmî kaynağa bağlanır; konuşma örnekleri ve çalışma listeleri pratik önerilerdir. Yazıların hazırlanma yöntemi ve kapsamı [kaynak ve yayın ilkelerinde](kaynak-ve-yayin-ilkeleri.md) açıklanır.
+
+Kullanım sayfalarında, 6 Kasım 2026’da çalışan yerel Ukte sitesinden alınmış gerçek ekran görüntüleri bulunur. Profil örnekleri yerel örnek hesaplara aittir. Kendi hesabınızdaki güncel fiyat, kalan hak ve seçenekleri esas alın.
 
 Mahremiyet ve karşılıklı rıza, tanışmanın her adımında önemlidir. [İletişim adabı](tanisma/iletisim-adabi.md) ve [mahremiyet rehberi](guvenlik/mahremiyet.md) ile sınırlarınızı baştan belirleyebilirsiniz.
 

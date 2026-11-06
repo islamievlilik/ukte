@@ -8,7 +8,7 @@ Ukte’yi evlilik niyetinizi açıkça ifade ederek kullanın. Profiliniz, adayl
 
 ## 1. Hesabınızı açın
 
-Ukte’nin giriş ekranından **Kayıt ol** seçeneğini açın. Ekranda sunulan kayıt yöntemini kullanın. Google ve Apple seçenekleri yalnız sitede etkin olduklarında görünür.
+Ukte’nin **Hesap oluştur** ekranını açın. **E-posta ile kayıt ol** veya sunulan diğer kayıt yöntemlerinden birini kullanın. Google ve Apple seçenekleri yalnız sitede etkin olduklarında görünür.
 
 Ukte 18 yaşını doldurmuş üyeler içindir. Doğum tarihinizi doğru girin; yaş ve profil gereksinimleri tamamlanmadan ilgili üye özellikleri açılamaz. [Üyelik ve giriş](uyelik-ve-giris.md) adımlarını izleyin.
 
@@ -31,5 +31,11 @@ Fotoğraflarınızın kimlere açılacağını kontrol edin. Bir gönderinin gö
 Uygun gördüğünüz adayın profilinden kısa ve açık bir tanışma notu yazın. İstek kabul edildiğinde sohbet edebilirsiniz. Cevap verme veya isteği kabul etme kararı karşı tarafa aittir.
 
 Sonraki adım: [Tanışma istekleri](../tanisma/tanisma-istekleri.md).
+
+## 6. Mesaj hakkınızı ve paketleri tanıyın
+
+**Ayarlar → Ayrıcalıklar** bölümündeki **Mevcut Planım** alanını kontrol edin. Ücretsiz erkek üyelerde günlük hak 30 mesajdır; kadın hesaplarda mesajlaşma ücretsiz ve sınırsızdır. Kalan hak, hiç kullanılmamış hesapta **30 / 30** olarak görünür.
+
+[Gold](../uyelik/gold.md) ve [VIP](../uyelik/vip.md) haklarını karşılaştırabilir, [satın alma ve üyelik süresini](../uyelik/satin-alma-ve-sure.md) öğrenebilirsiniz. Bir paket almak, karşı tarafın tanışma isteğinizi veya aramanızı kabul etme zorunluluğu oluşturmaz.
 
 Evlilik arayışınızın hangi aşamasında olduğunuzu düşünmek için [evlilik yol haritasını](../evlilik/README.md) kullanın. Görüşme hazırlığı için [evlilik öncesi sorulacak sorular](../evlilik/islami-evlilik/evlilik-oncesi-sorulacak-sorular.md) yardımcı olabilir.

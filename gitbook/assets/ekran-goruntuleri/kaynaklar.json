@@ -1,0 +1,162 @@
+{
+  "captured_on": "2026-11-06",
+  "timezone": "Europe/Istanbul",
+  "origin": "http://ukte.localhost",
+  "environment": "local",
+  "method": "Playwright Chromium screenshots of the running application; viewport or DOM element captures; no mocked responses or image retouching.",
+  "account": "Existing local sample catalog account for authenticated screens; guest for login and registration.",
+  "source_repository": "tivelio",
+  "source_revision": "1679993",
+  "source_state": "working tree",
+  "reference_files": [
+    "docs/BILLING.md",
+    "docs/STRIPE.md",
+    "docs/WEBRTC.md",
+    "packages/shared/src/billing.ts",
+    "apps/api/src/membership.ts",
+    "apps/api/src/stripe-billing.ts",
+    "apps/web/app/[locale]/billing-experience.tsx",
+    "packages/i18n/src/billing-messages.ts"
+  ],
+  "billing_reference": {
+    "free_male_messages_per_day": 30,
+    "displayed_remaining": 30,
+    "currency": "TRY",
+    "gold_month_minor": 74900,
+    "vip_month_minor": 109900,
+    "checkout_mode": "test"
+  },
+  "notes": [
+    "The local daily message limit was changed from 5 to 30 through the Ukte administration draft/activation flow at the user’s request.",
+    "No purchase or payment confirmation was performed for these screenshots.",
+    "The notification permission is denied in the captured browser; the settings screenshot shows this actual state."
+  ],
+  "screenshots": [
+    {
+      "file": "gold-paketleri.png",
+      "route": "/settings?section=billing",
+      "screen": "Gold",
+      "viewport": {
+        "width": 1365,
+        "height": 1000
+      },
+      "image": {
+        "width": 725,
+        "height": 817
+      },
+      "sha256": "134e4de889a9145cbb9afbe299e5954953bf0f19f9fab5769ea489f389813d71"
+    },
+    {
+      "file": "vip-paketleri.png",
+      "route": "/settings?section=billing",
+      "screen": "VIP",
+      "viewport": {
+        "width": 1365,
+        "height": 1000
+      },
+      "image": {
+        "width": 725,
+        "height": 817
+      },
+      "sha256": "c9bdf44b6429b4b7ba78088d9d2663d69b3ae8076cced865c7059fa4d6ddc6a4"
+    },
+    {
+      "file": "vip-mobil.png",
+      "route": "/settings?section=billing&plan=vip",
+      "screen": "VIP",
+      "viewport": {
+        "width": 390,
+        "height": 1500
+      },
+      "image": {
+        "width": 335,
+        "height": 872
+      },
+      "sha256": "6f1ec6a83a5a37d6ecd74126744bc7d409e5dbdd5a8a8832b1ba9deee3d3ac52"
+    },
+    {
+      "file": "gorunum-ve-dil.png",
+      "route": "/settings",
+      "screen": "Ayarlar → Görünüm ve dil",
+      "viewport": {
+        "width": 1365,
+        "height": 1000
+      },
+      "image": {
+        "width": 1016,
+        "height": 430
+      },
+      "sha256": "cdc7dac6a65020972b3446aa72ce08d0dfc868b12e7934b21803aefdd5b92fa3"
+    },
+    {
+      "file": "gizlilik.png",
+      "route": "/settings",
+      "screen": "Ayarlar → Gizlilik",
+      "viewport": {
+        "width": 1365,
+        "height": 1000
+      },
+      "image": {
+        "width": 1016,
+        "height": 430
+      },
+      "sha256": "f91f012ca7df24187d8144582dd18880f856bb9c7c9fef5ccd4a6e3ef0891784"
+    },
+    {
+      "file": "bildirim-ayarlari.png",
+      "route": "/settings",
+      "screen": "Ayarlar → Bildirimler",
+      "viewport": {
+        "width": 1365,
+        "height": 1000
+      },
+      "image": {
+        "width": 1016,
+        "height": 552
+      },
+      "sha256": "575ddcca0c1bdf5c18052e6bafaf4192ac34d5d905e001ccacf3cca488335832"
+    },
+    {
+      "file": "profil-duzenleme.png",
+      "route": "/settings/profile",
+      "screen": "Temel bilgiler",
+      "viewport": {
+        "width": 1365,
+        "height": 1000
+      },
+      "image": {
+        "width": 644,
+        "height": 803
+      },
+      "sha256": "00b8893015f3c8fb7f88e704e23e645050d340e72c5214f49885047cda7a4879"
+    },
+    {
+      "file": "giris.png",
+      "route": "/login",
+      "screen": "Giriş yap",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "image": {
+        "width": 1265,
+        "height": 900
+      },
+      "sha256": "c9fe931c4e15098ad120600f956d778b1372ad464344c960dad11786f60475fd"
+    },
+    {
+      "file": "kayit.png",
+      "route": "/register",
+      "screen": "Hesap oluştur",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "image": {
+        "width": 1265,
+        "height": 900
+      },
+      "sha256": "21200650137c17084a1af311994bbc572fbfbbf8d307b6656c86556929ae9c7b"
+    }
+  ]
+}
